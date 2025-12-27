@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sahee/AndroidStudioProjects/Weather-Cast-App-/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/sahee/AndroidStudioProjects/Weather-Cast-App-/app/src/main/res/layout/fragment_aqi.xml" value="0.2930253623188406" />
+        <entry key="..\:/Users/sahee/AndroidStudioProjects/Weather-Cast-App-/app/src/main/res/layout/fragment_news.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/sahee/AndroidStudioProjects/Weather-Cast-App-/app/src/main/res/layout/fragment_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/sahee/AndroidStudioProjects/Weather-Cast-App-/app/src/main/res/layout/fragment_temperature.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/sahee/AndroidStudioProjects/Weather-Cast-App-/app/src/main/res/layout/navigation_header.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
